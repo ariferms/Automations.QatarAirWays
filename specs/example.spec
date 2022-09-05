@@ -33,4 +33,3 @@ Bilet al
 * Arama butonuna tıklanır
 * Uçuş seçim ekranının geldiği kontrol edilir ve rastgele bir uçuş seçilir
 * Economy class seçeneğine tıklanır
-

@@ -86,6 +86,6 @@ public class StepImplementation extends Methods {
     public void randomFlight(){bookPage.randomSelectFlight();}
 
     @Step("Economy class seçeneğine tıklanır")
-    public void clickEconomy(){bookPage.clickEconomy();}
+    public void clickEconomy(){bookPage.clickEconomyhButton();}
 
 }
