@@ -1,0 +1,10 @@
+# Project exclude paths
+/.idea/
+target
+README.md
+manifest.json
+.gauge
+env
+out
+logs
+reports
